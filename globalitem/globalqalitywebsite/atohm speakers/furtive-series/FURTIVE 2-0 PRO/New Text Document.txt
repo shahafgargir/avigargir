@@ -1,0 +1,6 @@
+On wall speaker 2 ways bass reflex
+Power handling 300 Wrms
+Peak power 1000 W
+Impedance 6 ohms
+Efficiency 95 dB/2.83V/1M
+Frequency response 80 Hz - 25 kHz

@@ -1,0 +1,6 @@
+Center speaker A/V 2 +1 ways bass reflex
+Power handling 200 Wrms
+Peak power 400 W
+Impedance 6 ohms
+Efficiency 90 dB/2.83V/1M
+Frequency response 45 Hz-30 kHz

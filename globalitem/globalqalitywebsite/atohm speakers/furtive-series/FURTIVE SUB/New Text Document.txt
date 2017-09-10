@@ -1,0 +1,5 @@
+Active subwoofer
+Amplifier power: 300 Weff
+Frequency response: 30 Hz -150 Hz (-3dB)
+Crossover slope: 12 /oct 24dB/oct LFE by-pass
+Phase control: 0-180° with a potentiometer

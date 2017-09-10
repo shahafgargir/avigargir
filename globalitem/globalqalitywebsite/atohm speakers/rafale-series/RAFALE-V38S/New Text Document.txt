@@ -1,0 +1,9 @@
+Active subwoofer Vented box
+Frequency response 32 - 150 Hz
+Amplifier module ATOHM S250
+Amplifier module power 220 Wrms
+Peak power 320 W
+Low level input 2x cinchs
+High level input 2x 4mm banana plugs
+Frequency response 38 to 150 Hz
+Phase control 0-180°

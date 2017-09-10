@@ -1,0 +1,9 @@
+Active subwoofer Closed box
+Frequency response 23-150 Hz
+Amplifier module power ATOHM S500
+Amplifier module power 500 Wrms
+Peak power 550 W
+Low level input 2x cinch
+High level input 2x 4mm banana plugs
+Low pass crossover 38 to 150 Hz
+Phase control 0-180°

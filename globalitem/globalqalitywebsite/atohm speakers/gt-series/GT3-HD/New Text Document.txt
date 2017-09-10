@@ -1,0 +1,7 @@
+Floorstanding speaker 3 +1 ways bass reflex
+Power handling 300 Wrms
+Peak power 1000 W
+Impedance 6 ohms
+Efficiency 92 dB/2.83V/1M
+Frequency response 35 Hz - 30 kHz
+Frequency roll off 100-150-2500 Hz

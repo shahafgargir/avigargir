@@ -1,0 +1,5 @@
+2-way closed box speaker
+Power handling: 70 Weff
+Peak power: 120 W
+Impedance: 6 ohms
+Sensitivity: 88 dB/2.83V/1M
